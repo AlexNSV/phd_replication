@@ -4,6 +4,7 @@ This is replication code for a PhD Thesis
 
 Структура.
 --code/
+----continuity_conventions.md  |  описание правил преемственности стран
 ----country_analysis.ipynb | описательные статистики по положению стран в иерархии
 ----determinants_analysis.ipynb  |  проверка основных гипотез о детерминантах международной иерархии
 ----hightech_analysis.ipynb  |  Специальная версия основного кода для построения индекса по высокотехнологичному экспорту
